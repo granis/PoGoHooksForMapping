@@ -1,12 +1,15 @@
 {
-	"0.195.2_64": {
-		"aRs_gCiSo": "0x482378C",
-		"aR_oRo": "0x4822B08",
-		"aR_gMo": "0x4822AF8"
-	},
-	"0.193.2_64": {
-		"aRs_gCiSo": "0x5084950",
-		"aR_oRo": "0x5083CCC",
-		"aR_gMo": "0x5083CBC"
+	"0.245.2": {
+		"PIS_init": 0x207FD4C,
+		"PIS_spin": 0x207E918,
+		"WMP_verify": 0x1F43F50,
+		"MP_active": 0x1A16E70,
+		"QRS_getdisplay": 0x2297B2C,
+		"QRS_remove": 0x2297830,
+		"AR_method": 0x43BB9FC,
+		"AR_getcoded": 0x43BBAE0,
+		"AR_response": 0x43BBA5C,
+		"PSIGC_bubbles": 0x20B425C,
+		"PSIGC_exit": 0x20B68A4
 	}
 }

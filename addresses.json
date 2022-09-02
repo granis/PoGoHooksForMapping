@@ -1,4 +1,17 @@
 {
+	"0.247.1": {
+		"PIS_init": "0x236E6C4",
+		"PIS_spin": "0x236DB9C",
+		"WMP_verify": "0x212F308",
+		"MP_active": "0x257B7C8",
+		"QRS_getdisplay": "0x1CC9454",
+		"QRS_remove": "0x1CC9700",
+		"AR_method": "0x43FF1D8",
+		"AR_getcoded": "0x43FF2BC",
+		"AR_response": "0x43FF238",
+		"PSIGC_bubbles": "0x1CBDE28",
+		"PSIGC_exit": "0x1CC0620"
+	},
 	"0.247.0": {
 		"PIS_init": "0x269811C",
 		"PIS_spin": "0x26975F4",
